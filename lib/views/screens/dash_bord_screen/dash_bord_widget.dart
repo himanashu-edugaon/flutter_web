@@ -75,7 +75,8 @@ class _SidebarState extends State<Sidebar> {
                               "Admin",
                               style: TextStyle(fontWeight: FontWeight.bold),
                             )),
-                      )
+                      ),
+                      SizedBox(height: 5,)
                     ],
                   ),
                 ),
